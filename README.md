@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi there, I'm Ishank Kumar! 👋<br>I'm a passionate engineering student from India, driven by the challenge of building innovative solutions for the web and mobile. I love diving deep into code, exploring new technologies, and bringing ideas to life.<br><br>🚀 What I'm currently working with:<br><br>Mobile: Building beautiful, natively compiled applications with Flutter.<br><br>Backend & Cloud: Powering my apps with Firebase (Authentication, Firestore, Cloud Functions).<br><br>
 
+[![An image of @ishank307's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishank307)](https://holopin.io/@ishank307)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishank-kumar-479204260) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ishankkumar307) 
